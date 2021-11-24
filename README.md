@@ -1,0 +1,2 @@
+# Computer-Organization-and-Architecture
+This course is focused on the study of basic concepts of computer organization and architecture. All students of computing should acquire some understanding and appreciation of a computer system’s functional components, their characteristics, their performance, and their interactions. Computer organization and architecture encompasses a broad range of design issues and concepts. A good overall understanding of these concepts will be useful both in other areas of study and in future work after graduation.
