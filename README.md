@@ -10,7 +10,7 @@ Chapter 6 Memory
 
 GROUP ASSIGNMENT
 Discuss and find the information on the following topics. Summarize them in a way that they can be easily understood (you may use figures, diagrams, charts, etc):
-https://sites.google.com/student.ums.edu.my/coagroupassignment-glt/group-member
+https://sites.google.com/student.ums.edu.my/coagroupassignment-glt/f-t
 
 i.	Flynn’s Taxonomy
     a.	SIMD machines
