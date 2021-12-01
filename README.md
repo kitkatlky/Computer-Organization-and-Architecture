@@ -5,6 +5,7 @@ ASSIGNMENT [Assignment 1.pdf](https://github.com/kitkatlky/Computer-Organization
            [Assignment 1 complete.pdf](https://github.com/kitkatlky/Computer-Organization-and-Architecture/files/7597485/Assignment.1.complete.pdf)
 
 Chapter 3 Boolean Algebra and Digital Logic
+
 Chapter 6 Memory
 
 
